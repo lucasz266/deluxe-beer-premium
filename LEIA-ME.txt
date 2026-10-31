@@ -1,0 +1,23 @@
+DELUXE BEER PREMIUM — SITE INSTITUCIONAL PROFISSIONAL (VERSÃO PRONTA PARA VENDA E DEPLOY)
+
+O que foi atualizado e corrigido nesta versão:
+1. Correção definitiva da imagem no Netlify e GitHub:
+   - A fotografia tratada da fachada (sem pessoas, sem a moto e com a TV desligada) já está incluída na raiz (`fachada-deluxe-real.jpg`) e também na subpasta (`assets/fachada-deluxe-real.jpg`).
+   - O código HTML possui carregamento inteligente: funciona tanto ao abrir direto no computador quanto ao hospedar no GitHub/Netlify.
+2. Enquadramento aprimorado da fachada:
+   - Foco ajustado no letreiro DELUXE BEER PREMIUM e na iluminação do estabelecimento, reduzindo o excesso de calçada vazia.
+3. Visual comercial mais chamativo:
+   - Acabamento premium em preto e dourado, efeitos suaves de vidro (glassmorphism), cartões de diferenciais e responsividade completa para telemóvel e computador.
+
+Estrutura de ficheiros e pastas:
+- index.html (Estrutura principal otimizada)
+- style.css (Folha de estilos limpa, unificada e responsiva)
+- script.js (Menu mobile e animações suaves de entrada)
+- fachada-deluxe-real.jpg (Foto na raiz para funcionar direto no GitHub/Netlify)
+- assets/fachada-deluxe-real.jpg (Cópia de segurança na pasta assets)
+- LEIA-ME.txt (Instruções de uso)
+
+Como atualizar no GitHub / Netlify:
+1. Extraia o arquivo ZIP no seu computador.
+2. No seu repositório do GitHub, clique em "Add file" -> "Upload files".
+3. Arraste todos os arquivos extraídos (index.html, style.css, script.js, fachada-deluxe-real.jpg, LEIA-ME.txt e a pasta assets) e clique em "Commit changes".
